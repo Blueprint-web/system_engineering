@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R 700 /tmp/directories/ 
+chmod -R 755 /tmp/directories/ 
