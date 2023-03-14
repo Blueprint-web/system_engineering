@@ -1,6 +1,2 @@
-what we know
-wht we dont know
-were we know
-were we dont know 
-how we know
-
+#!/bin/bash
+head -n iacta | tail -1
