@@ -1,0 +1,8 @@
+total 32
+drwxr-xr-x 2 root root   103 Mar 14 10:54 .
+drwxr-xr-x 6 root root   121 Mar 13 09:05 ..
+-rw------- 1 root root 12288 Mar 13 12:29 .2-hellofile.swp
+-rw-r--r-- 1 root root 12288 Mar 14 01:51 .6-third_line.swp
+-rwxr--r-- 1 root root    36 Mar 14 10:50 8-cwd_state
+-rw-r--r-- 1 root root     0 Mar 14 10:54 gift
+-rw-r--r-- 1 root root    30 Mar 14 10:46 README.md
